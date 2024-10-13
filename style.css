@@ -1,5 +1,5 @@
 .background-image {
-	background-image: url('./assets/pexels-julius-silver-240301-753626.jpgß'); /* Replace with your image URL */
+	background-image: url('./assets/pexels-julius-silver-240301-753626.jpg'); /* Replace with your image URL */
 	background-size: cover;
 	background-position: center;
 	min-height: 100vh; /* Ensure the image covers the entire viewport height */
