@@ -1,0 +1,27 @@
+.background-image {
+	background-image: url('/assets/pexels-julius-silver-240301-753626.jpg'); /* Replace with your image URL */
+	background-size: cover;
+	background-position: center;
+	min-height: 100vh; /* Ensure the image covers the entire viewport height */
+}
+
+.transparent-overlay {
+	background-color: rgba(
+		255,
+		255,
+		255,
+		0.7
+	); /* White background with 70% transparency */
+	min-height: 100vh; /* Match the height of the background image */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: justify; /* Center text within the overlay */
+	line-height: 2;
+	/* font-family: cursive; */
+}
+.navbar-brand {
+	font-family: cursive;
+	font-size: 3rem !important;
+}
